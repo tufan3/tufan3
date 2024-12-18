@@ -1,11 +1,9 @@
-![Custom Badge 1]([https://github.com/tufan3/tufan3/blob/main/path/to/image1.png](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png))
----
-# Hi, I'm Md. Robiul Islam Tufan 👋  
+
+### Hi, I'm Md. Robiul Islam Tufan 👋  
 **A Passionate Software Engineer (PHP & Laravel)**  
 ### Custom Badge Design 1
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tufan3&color=blue)
-
 ---
 ### 🛠️ **My Skills & Specialization**  
 - **Languages:**  
@@ -50,10 +48,6 @@
 ---
 
 ### 🏆 **GitHub Status**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tufan3&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tufan3&layout=compact&theme=radical)  
+-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tufan3&show_icons=true&theme=radical)  
+-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tufan3&layout=compact&theme=radical)  
 
----
-
-### ❤️ **Show Some Support!**  
-If you like what you see, feel free to star ⭐ some of my repositories! 😊
