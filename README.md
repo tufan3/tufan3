@@ -2,7 +2,9 @@
 **A Passionate Software Engineer (PHP & Laravel)**  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=tufan3&color=blue)
 
+---
 ### 🛠️ **My Skills & Specialization**  
 - **Languages:**  
   HTML, CSS, JavaScript, PHP, C, AJAX, jQuery  
