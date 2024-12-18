@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Md. Robiul Islam Tufan 👋  
+**A Passionate Software Engineer (PHP & Laravel)**  
 
-<!--
-**tufan3/tufan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ **My Skills & Specialization**  
+- **Languages:**  
+  HTML, CSS, JavaScript, PHP, C, AJAX, jQuery  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frameworks/Libraries:**  
+  - Backend: Laravel  
+  - Frontend: Vue.js  
+
+- **Databases:**  
+  SQL, MySQL, Oracle  
+
+---
+
+### 🔭 **Currently Working On**  
+- **E-commerce** - An E-commerce Project (Personal Project)  
+
+---
+
+### 🌱 **Learning:**  
+- Laravel, Vue.js & React Frameworks  
+
+---
+
+### 📝 **Projects & Achievements**  
+- **Hydrology Project**  
+  - Under Bangladesh Water Development Board  
+
+- **Booking Management System**  
+  - Under Bangladesh Water Development Board  
+
+- **Alumni System**  
+  - Under Bangladesh Water Development Board  
+
+---
+
+### 📫 **How to Reach Me**  
+- **Email:** robiultufan.dev@gmail.com  
+- **Resume:** [My Resume]()  
+- **LinkedIn:** [Md. Robiul Islam Tufan](https://linkedin.com/in/tufan3)  
+
+---
+
+### 🏆 **GitHub Status**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tufan3&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tufan3&layout=compact&theme=radical)  
+
+---
+
+### ❤️ **Show Some Support!**  
+If you like what you see, feel free to star ⭐ some of my repositories! 😊
