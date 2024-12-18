@@ -1,6 +1,7 @@
 # Hi, I'm Md. Robiul Islam Tufan 👋  
 **A Passionate Software Engineer (PHP & Laravel)**  
-
+### Custom Badge Design 1
+![Custom Badge 1](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/path/to/image1.png)
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=tufan3&color=blue)
 
