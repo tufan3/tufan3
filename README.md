@@ -1,8 +1,7 @@
 
 ### Hi, I'm Md. Robiul Islam Tufan 👋  
----
-**A Passionate Software Engineer (PHP & Laravel)** 
 -
+**A Passionate Software Engineer (PHP & Laravel)** 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tufan3&color=blue)
 ---
