@@ -1,20 +1,20 @@
 
 # <p align="center">Hi, I'm Md. Robiul Islam Tufan 👋  </p>
 
-<p align="center">**A Passionate Software Engineer (PHP & Laravel)**</p> 
+### <p align="center">A Passionate Software Engineer (PHP & Laravel)</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tufan3&color=blue)
 ---
 ### 🛠️ **My Skills & Specialization**  
 - **Languages:**  
-  HTML, CSS, JavaScript, PHP, C, AJAX, jQuery  
+  - HTML, CSS, JavaScript, PHP, C, AJAX, jQuery  
 
 - **Frameworks/Libraries:**  
   - Backend: Laravel  
   - Frontend: Vue.js  
 
 - **Databases:**  
-  SQL, MySQL, Oracle  
+  - SQL, MySQL, Oracle  
 
 ### 🔭 **Currently Working On**  
 - **E-commerce** - An E-commerce Project (Personal Project)  
