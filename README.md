@@ -1,6 +1,8 @@
 
 ### Hi, I'm Md. Robiul Islam Tufan 👋  
-**A Passionate Software Engineer (PHP & Laravel)**  
+---
+**A Passionate Software Engineer (PHP & Laravel)** 
+-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tufan3&color=blue)
 ---
@@ -14,8 +16,6 @@
 
 - **Databases:**  
   SQL, MySQL, Oracle  
-
----
 
 ### 🔭 **Currently Working On**  
 - **E-commerce** - An E-commerce Project (Personal Project)  
@@ -41,8 +41,8 @@
 
 ### 📫 **How to Reach Me**  
 - **Email:** robiultufan.dev@gmail.com  
-- **Resume:** [My Resume]()  
-- **LinkedIn:** [Md. Robiul Islam Tufan](https://linkedin.com/in/tufan3)  
+- **Resume:** [My Resume](https://drive.google.com/file/d/1sIyBoaNVQQpJN3oVnYC_ZFveFmJd65_e/view)  
+- **LinkedIn:** [Linkedin](https://linkedin.com/in/tufan3)  
 
 ---
 
