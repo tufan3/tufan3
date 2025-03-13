@@ -7,7 +7,7 @@
 ---
 ### 🛠️ **My Skills & Specialization**  
 - **Languages:**  
-  - HTML, CSS, JavaScript, PHP, C, AJAX, jQuery  
+  - HTML, CSS, JavaScript, PHP, C, AJAX, jQuery, 
 
 - **Frameworks/Libraries:**  
   - Backend: Laravel  
@@ -21,10 +21,11 @@
 
 
 ### 🌱 **Learning:**  
-- Laravel, Vue.js & React Frameworks  
+- Laravel, Vue.js 
 
 
 ### 📝 **Projects & Achievements**  
+- **ProHR Sysyem** 
 - **Hydrology Project**  
   - Under Bangladesh Water Development Board  
 
@@ -37,7 +38,7 @@
 
 ### 📫 **How to Reach Me**  
 - **Email:** robiultufan.dev@gmail.com  
-- **Resume:** [My Resume](https://drive.google.com/file/d/1sIyBoaNVQQpJN3oVnYC_ZFveFmJd65_e/view)  
+- **Resume:** [My Resume](https://drive.google.com/file/d/1U63ZIlusMMzvxbOme7xWqKv3SDid6H5r/view)  
 - **LinkedIn:** [Linkedin](https://linkedin.com/in/tufan3)  
 
 # 🏆 **GitHub Status** 
