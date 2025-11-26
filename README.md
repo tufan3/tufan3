@@ -39,7 +39,7 @@
 
 ### 📫 **How to Reach Me**  
 - **Email:** robiultufan.dev@gmail.com  
-- **Resume:** [My Resume](https://drive.google.com/file/d/1U63ZIlusMMzvxbOme7xWqKv3SDid6H5r/view)  
+- **Resume:** [My Resume](https://drive.google.com/file/d/1CqtfOF9D1xMJCfzPVpspiH7r2pCApFCu/view)  
 - **LinkedIn:** [Linkedin](https://linkedin.com/in/tufan3)  
 
 # 🏆 **GitHub Status** 
