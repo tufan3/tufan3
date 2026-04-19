@@ -10,18 +10,18 @@
   - HTML, CSS, JavaScript, PHP, C, AJAX, jQuery, 
 
 - **Frameworks/Libraries:**  
-  - Backend: Laravel  
+  - Backend: Laravel, Node.js (Basic)  
   - Frontend: Vue.js  
 
 - **Databases:**  
-  - SQL, MySQL, Oracle  
+  - MySQL, Oracle  
 
 ### 🔭 **Currently Working On**  
-- **E-commerce** - An E-commerce Project (Personal Project)  
+- **E-commerce** - Pos System (Office Project)  
 
 
 ### 🌱 **Learning:**  
-- Laravel, Vue.js 
+- Laravel, Vue.js, Node.js 
 
 
 ### 📝 **Projects & Achievements** 
