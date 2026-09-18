@@ -14,14 +14,14 @@
   - Frontend: Vue.js  
 
 - **Databases:**  
-  - MySQL, Oracle  
+  - MySQL  
 
 ### 🔭 **Currently Working On**  
-- **E-commerce** - Pos System (Office Project)  
+- **E-commerce** - Saas E-Commerce Project (Office Project)  
 
 
 ### 🌱 **Learning:**  
-- Laravel, Vue.js, Node.js 
+- Laravel, Vue.js, Node.js, Docker
 
 
 ### 📝 **Projects & Achievements** 
